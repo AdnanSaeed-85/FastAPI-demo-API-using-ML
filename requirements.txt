@@ -1,5 +1,7 @@
 fastapi
 pydantic
-scikit-learn
 pandas
 numpy
+pandas
+scikit-learn
+uvicorn
